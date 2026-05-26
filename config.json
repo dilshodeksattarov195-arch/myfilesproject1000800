@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaileelete",
+        "uuid": 5545600,
+        "checksum": "agujlq"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
